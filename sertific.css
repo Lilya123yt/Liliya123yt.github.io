@@ -1,0 +1,1519 @@
+.Desktop4 {
+    width: 1440px; 
+    height: 2177px; 
+    position: relative; 
+    background: #D0CFCD;
+}
+@media (max-width: 1439px){
+    .Desktop4{
+        max-width: 1440px;
+        height: 2132px;
+    }
+}
+@media (max-width: 1201px){
+    .Desktop4{
+        max-width: 1200px;
+        height: 2072px;
+    }
+}
+@media (max-width: 993px){
+    .Desktop4{
+        max-width: 992px;
+        height: 1821px;
+    }
+}
+@media (max-width: 769px){
+    .Desktop4{
+        max-width: 768px;
+        height: 1721px;
+    }
+}
+@media (max-width: 577px){
+    .Desktop4{
+        max-width: 576px;
+        height: 1644px;
+    }
+}
+@media (max-width: 461px){
+    .Desktop4{
+        max-width: 460px;
+        height: 1480px;
+    }
+}
+@media (max-width: 415px){
+    .Desktop4{
+        max-width: 414px;
+        height: 1226px;
+    }
+}
+@media (max-width: 376px){
+    .Desktop4{
+        max-width: 375px;
+        height: 1015px;
+    }
+}
+@media (max-width: 320px){
+    .Desktop4{
+        max-width: 320px;
+        height: 1066px;
+    }
+}
+.Image13 {
+    width: 1455px; 
+    height: 917px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+}
+@media (max-width: 1439px){
+    .Image13{
+        max-width: 1440px;
+    }
+}
+@media (max-width: 1201px){
+    .Image13{
+        max-width: 1200px;
+    }
+}
+@media (max-width: 993px){
+    .Image13{
+        max-width: 100%;
+        height: 809px;
+    }
+}
+@media (max-width: 769px){
+    .Image13{
+        max-width: 100%;
+        height: 729px;
+    }
+}
+@media (max-width: 577px){
+    .Image13{
+        max-width: 100%;
+        height: 672px;
+    }
+}
+@media (max-width: 461px){
+    .Image13{
+        max-width: 100%;
+        height: 558px;
+    }
+}
+@media (max-width: 415px){
+    .Image13{
+        max-width: 414px;
+        height: 402px;
+    }
+}
+@media (max-width: 376px){
+    .Image13{
+        max-width: 375px;
+        height: 402px;
+    }
+}
+@media (max-width: 320px){
+    .Image13{
+        max-width: 320px;
+        height: 402px;
+    }
+}
+.subtitle {
+    width: 405px; 
+    left: 525px; 
+    top: 500px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 30px; 
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .subtitle{
+        position: absolute;
+        left: 1px;
+        width: 1440px;
+        height: 80px; 
+        text-align: center; 
+        height: 22px;
+        font-size: 30px;
+        font-weight: 400;
+    }
+}
+@media (max-width: 1201px){
+    .subtitle{
+        left: 1px;
+        width: 1200px;
+    }
+}
+@media (max-width: 993px){
+    .subtitle{
+        width: 992px;
+        left: 1px;
+        height: 80px; 
+        font-size: 23px;
+        font-weight: 400;
+        top: 500px;
+    }
+}
+@media (max-width: 769px){
+    .subtitle{
+        width: 768px;
+        top: 385px;
+    }
+}
+@media (max-width: 577px){
+    .subtitle{
+        width: 576px;
+        top: 385px;
+    }
+}
+@media (max-width: 461px){
+    .subtitle{
+        width: 460px;
+        top: 291px;
+        font-size: 21px;
+    }
+}
+@media (max-width: 415px){
+    .subtitle{
+        max-width: 414px;
+        font-size: 17px;
+        left: 1px;
+        height: 49px;
+        font-weight: 300;
+        top: 195px;
+    }
+}
+@media (max-width: 376px){
+    .subtitle{
+        max-width: 375px;
+        font-size: 12px;
+        left: 4px;
+        height: 49px;
+        font-weight: 300;
+        top: 195px;
+    }
+}
+@media (max-width: 320px){
+    .subtitle{
+        max-width: 312px;
+        font-size: 12px;
+        left: 4px;
+        height: 49px;
+        font-weight: 300;
+        top: 195px;
+    }
+}
+.sertificate {
+    width: 600px; 
+    height: 65px; 
+    left: 429px; 
+    top: 421px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 40px; 
+    font-family: 'Istok Web', sans-serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .sertificate{
+        position: absolute;
+        left: 1px;
+        width: 1440px;
+        height: 54px; 
+        text-align: center; 
+        height: 22px;
+        font-size: 40px;
+        font-weight: 400;
+    }
+}
+@media (max-width: 1201px){
+    .sertificate{
+        left: 1px;
+        width: 1200px;
+    }
+}
+@media (max-width: 993px){
+    .sertificate{
+        max-width: 992px;
+        height: 339px; 
+        left: 1px; 
+        top: 400px; 
+        position: absolute; 
+        text-align: center; 
+        color: white; 
+        font-size: 28px; 
+        font-family: 'Istok Web', sans-serif;
+        font-weight: 400; 
+        word-wrap: break-word;
+    }
+}
+@media (max-width: 769px){
+    .sertificate{
+        width: 768px;
+        top: 294px;
+    }
+}
+@media (max-width: 577px){
+    .sertificate{
+        width: 576px;
+        top: 294px;
+    }
+}
+@media (max-width: 461px){
+    .sertificate{
+        width: 460px;
+        top: 224px;
+        font-size: 26px;
+    }
+}
+@media (max-width: 415px){
+    .sertificate{
+        max-width: 414px;
+        font-size: 18px;
+        left: 1px;
+        height: 30px;
+        font-weight: 300;
+        top: 154px;
+    }
+}
+@media (max-width: 376px){
+    .sertificate{
+        max-width: 375px;
+        font-size: 15px;
+        left: -1px;
+        height: 30px;
+        font-weight: 300;
+        top: 154px;
+    }
+}
+@media (max-width: 320px){
+    .sertificate{
+        max-width: 320px;
+        font-size: 15px;
+        left: -1px;
+        height: 30px;
+        font-weight: 300;
+        top: 154px;
+    }
+}
+.services {
+    width: 104px; 
+    height: 74px; 
+    left: 621px; 
+    top: 40px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px; 
+    font-family: 'Kodchasan', sans-serif;  
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .services{
+        top: 60px; 
+        position: absolute;
+        left: 621px;
+        width: 104px;
+        height: 74px; 
+        text-align: center; 
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
+@media (max-width: 1201px){
+    .services{
+        left: 603px;
+    }
+}
+@media (max-width: 993px){
+    .services{
+        max-width: 750px;
+        top: 100px; 
+        position: absolute;
+        left: 166px;
+        max-width: 970px;
+        height: 35px; 
+        text-align: center; 
+        height: 30px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
+@media (max-width: 769px){
+    .services{
+        left: 50px;
+    }
+}
+@media (max-width: 577px){
+    .services{
+        left: 11px;
+    }
+}
+@media (max-width: 461px){
+    .services{
+        left: -6px;
+        font-size: 18px;
+    }
+}
+@media (max-width: 415px){
+    .services{
+        max-width: 414px;
+        font-size: 14px;
+        left: -2px;
+        height: 26px;
+        top: 57px;
+    }
+}
+@media (max-width: 376px){
+    .services{
+        max-width: 375px;
+        font-size: 12px;
+        left: -8px;
+        height: 26px;
+        top: 57px;
+    }
+}
+@media (max-width: 320px){
+    .services{
+        max-width: 343px;
+        font-size: 12px;
+        left: -17px;
+        height: 26px;
+        top: 57px;
+    }
+}
+.about {
+    width: 98px; 
+    height: 41px; 
+    left: 744px; 
+    top: 40px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px; 
+    font-family: 'Kodchasan', sans-serif; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .about{
+        top: 60px; 
+        position: absolute;
+        left: 744px;
+        width: 98px;
+        height: 41px; 
+        text-align: center; 
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
+@media (max-width: 1201px){
+    .about{
+        left: 718px;
+    }
+}
+@media (max-width: 993px){
+    .about{
+        max-width: 750px;
+        top: 100px; 
+        position: absolute;
+        left: 303px;
+        height: 35px; 
+        text-align: center; 
+        height: 30px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
+@media (max-width: 769px){
+    .about{
+        left: 201px;
+    }
+}
+@media (max-width: 577px){
+    .about{
+        left: 124px;
+    }
+}
+@media (max-width: 461px){
+    .about{
+        left: 82px;
+        font-size: 18px;
+    }
+}
+@media (max-width: 415px){
+    .about{
+        max-width: 414px;
+        font-size: 14px;
+        left: 75px;
+        height: 26px;
+        top: 57px;
+    }
+}
+@media (max-width: 376px){
+    .about{
+        max-width: 375px;
+        font-size: 12px;
+        left: 62px;
+        height: 26px;
+        top: 57px;
+    }
+}
+@media (max-width: 320px){
+    .about{
+        max-width: 343px;
+        font-size: 12px;
+        left: 45px;
+        height: 26px;
+        top: 57px;
+    }
+}
+.help {
+    width: 133px; 
+    height: 84px; 
+    left: 861px; 
+    top: 40px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px; 
+    font-family: 'Kodchasan', sans-serif; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .help{
+        top: 60px; 
+        position: absolute;
+        left: 861px;
+        width: 133px;
+        height: 84px; 
+        text-align: center; 
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
+@media (max-width: 1201px){
+    .help{
+        left: 819px;
+    }
+}
+@media (max-width: 993px){
+    .help{
+        max-width: 750px;
+        top: 100px; 
+        position: absolute;
+        left: 437px;
+        height: 35px; 
+        text-align: center; 
+        height: 30px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
+@media (max-width: 769px){
+    .help{
+        left: 342px;
+    }
+}
+@media (max-width: 577px){
+    .help{
+        left: 225px;
+    }
+}
+@media (max-width: 461px){
+    .help{
+        left: 158px;
+        font-size: 18px;
+    }
+}
+@media (max-width: 415px){
+    .help{
+        max-width: 414px;
+        font-size: 14px;
+        left: 140px;
+        height: 26px;
+        top: 57px;
+    }
+}
+@media (max-width: 376px){
+    .help{
+        max-width: 375px;
+        font-size: 12px;
+        left: 118px;
+        height: 26px;
+        top: 57px;
+    }
+}
+@media (max-width: 320px){
+    .help{
+        max-width: 343px;
+        font-size: 12px;
+        left: 92px;
+        height: 26px;
+        top: 57px;
+    }
+}
+.bron {
+    width: 198px; 
+    height: 80px; 
+    left: 1013px; 
+    top: 40px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px; 
+    font-family: 'Kodchasan', sans-serif; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .bron{
+        top: 60px; 
+        position: absolute;
+        left: 1013px;
+        width: 198px;
+        height: 80px; 
+        text-align: center; 
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
+@media (max-width: 1201px){
+    .bron{
+        left: 961px;
+    }
+}
+@media (max-width: 993px){
+.bron{
+    max-width: 750px;
+    top: 100px; 
+    position: absolute;
+    left: 604px;
+    height: 35px; 
+    text-align: center; 
+    height: 30px;
+    font-size: 20px;
+    font-weight: 700;
+}
+}
+@media (max-width: 769px){
+    .bron{
+        left: 531px;
+    }
+}
+@media (max-width: 577px){
+    .bron{
+        left: 367px;
+    }
+}
+@media (max-width: 461px){
+    .bron{
+        left: 270px;
+        font-size: 18px;
+    }
+}
+@media (max-width: 415px){
+    .bron{
+        max-width: 414px;
+        font-size: 14px;
+        left: 233px;
+        height: 26px;
+        top: 57px;
+    }
+}
+@media (max-width: 376px){
+    .bron{
+        max-width: 375px;
+        font-size: 12px;
+        left: 195px;
+        height: 26px;
+        top: 57px;
+    }
+}
+@media (max-width: 320px){
+    .bron{
+        width: 111px;
+        font-size: 12px;
+        left: 201px;
+        height: 26px;
+        top: 57px;
+    }
+}
+.num_tel {
+    width: 190px; 
+    height: 80px; 
+    left: 1230px; 
+    top: 40px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px; 
+    font-family: 'Kodchasan', sans-serif; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .num_tel{
+        top: 60px;
+        left: 1230px; 
+        height: 80px;
+
+    }
+}
+@media (max-width: 1201px){
+    .num_tel{
+        visibility: hidden;
+        display: none; 
+    }
+}
+.HorizonTravel {
+    width: 232px; 
+    height: 70px; 
+    left: 61px; 
+    top: 16px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 33px; 
+    font-family: 'KoHo', sans-serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .HorizonTravel{
+        top: 50px;
+        position: absolute;
+        left: 100px;
+        max-width: 970px;
+        height: 33px; 
+        text-align: center; 
+        height: 22px;
+        font-size: 30px;
+        font-weight: 400;
+    }
+}
+@media (max-width: 993px){
+    .HorizonTravel{
+        width: 992px;
+        top: 706px;
+        position: absolute;
+        left: 1px;
+        height: 33px; 
+        text-align: center; 
+        font-size: 30px;
+        font-weight: 400;
+    }
+}
+@media (max-width: 769px){
+    .HorizonTravel{
+        width: 768px;
+        top: 635px;
+    }
+}
+@media (max-width: 577px){
+    .HorizonTravel{
+        width: 576px;
+        top: 590px;
+    }
+}
+@media (max-width: 461px){
+    .HorizonTravel{
+        width: 460px;
+        top: 451px;
+        font-size: 28px;
+    }
+}
+@media (max-width: 415px){
+    .HorizonTravel{
+        width: 414px;
+        font-size: 22px;
+        left: 1px;
+        height: 26px;
+        top: 320px;
+    }
+}
+@media (max-width: 376px){
+    .HorizonTravel{
+        width: 375px;
+        font-size: 18px;
+        left: 1px;
+        height: 26px;
+        top: 320px;
+    }
+}
+@media (max-width: 320px){
+    .HorizonTravel{
+        width: 320px;
+        font-size: 20px;
+        left: 1px;
+        height: 26px;
+        top: 320px;
+    }
+}
+.sertificate_subtitle {
+    width: 778px; 
+    height: 887px; 
+    left: 20px; 
+    top:995px; 
+    position: absolute; 
+    color: black; 
+    font-size: 27px; 
+    font-family: 'Inconsolata', monospace; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .sertificate_subtitle{
+        top: 950px;
+        position: absolute;
+        left: 28px;
+        width: 1367px;
+        height: 90px;  
+        font-size: 27px;
+        font-weight: 400;
+    }
+}
+@media (max-width: 1201px){
+    .sertificate_subtitle{
+        top: 950px;
+        left: 28px;
+        width: 1198px; 
+        font-size: 25px;
+    }
+}
+@media (max-width: 993px){
+    .sertificate_subtitle{
+        width: 933px;
+        left: 20px;
+        top: 813px;
+        font-size: 23px;
+    }
+}
+@media (max-width: 769px){
+    .sertificate_subtitle{
+        width: 755px;
+        left: 8px;
+        top: 737px;
+        font-size: 21px;
+    }
+}
+@media (max-width: 577px){
+    .sertificate_subtitle{
+        width: 562px;
+        left: 8px;
+        top: 678px;
+        font-size: 19px;
+    }
+}
+@media (max-width: 461px){
+    .sertificate_subtitle{
+        width: 437px;
+        top: 565px;
+        font-size: 17px;
+    }
+}
+@media (max-width: 415px){
+    .sertificate_subtitle{
+        font-size: 15px;
+        left: 16px;
+        height: 26px;
+        top: 407px;
+        width: 384px;
+    }
+}
+@media (max-width: 376px){
+    .sertificate_subtitle{
+        font-size: 12px;
+        left: 9px;
+        height: 26px;
+        top: 407px;
+        width: 359px;
+    }
+}
+@media (max-width: 320px){
+    .sertificate_subtitle{
+        font-size: 12px;
+        left: 11px;
+        height: 26px;
+        top: 407px;
+        width: 300px;
+    }
+}
+.Group10 {
+    width: 657px; 
+    height: 985.50px; 
+    left: 798px; 
+    top: 917px; 
+    position: absolute;
+}
+@media (max-width: 1439px){
+    .Group10{
+        visibility: hidden;
+        display: none; 
+    }
+}
+.Image14{
+    width: 657px; 
+    height: 985.50px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+}
+@media (max-width: 1439px){
+    .Image14{
+        max-width: 970px;
+        visibility: hidden;
+        display: none;
+    }
+}
+.Image15{
+    width: 10px; 
+    height: 10px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+}
+@media (max-width: 1439px){
+    .Image15{
+    width: 60%; 
+    height: 13%;
+    left: 266px; 
+    top: 1465px; 
+    position: absolute;
+    }
+}
+@media (max-width: 1201px){
+    .Image15{
+    width: 60%; 
+    height: 12%;
+    left: 234px; 
+    top: 1423px; 
+    }
+}
+@media (max-width: 993px){
+    .Image15{
+        max-width: 750px;
+        top: 1280px; 
+        left: 204px;
+    }
+}
+@media (max-width: 769px){
+    .Image15{
+        top: 1229px; 
+        left: 113px;
+        height: 13%;
+        width: 70%;
+    }
+}
+@media (max-width: 577px){
+    .Image15{
+        top: 1229px; 
+        left: 53px;
+        height: 150px;
+        width: 462px;
+    }
+}
+@media (max-width: 461px){
+    .Image15{
+        top: 1086px; 
+        left: 0px;
+        height: 139px;
+        width: 100%;
+    }
+}
+@media (max-width: 415px){
+    .Image15{
+        top: 866px; 
+        left: 0px;
+        height: 123px;
+        width: 100%;
+    }
+}
+@media (max-width: 376px){
+    .Image15{
+        width: 100%;
+        height: 96px;
+        top: 738px;
+        left: 0px;
+    }
+}
+@media (max-width: 320px){
+    .Image15{
+        width: 275px;
+        height: 84px;
+        top: 798px;
+        left: 23px;
+    }
+}
+.but {
+    width: 308px; 
+    height: 95px; 
+    left: 217px; 
+    top: 1770px; 
+    position: absolute;
+    outline: none;
+    border: 4px black solid;
+    background-color: rgba(47, 42, 34, 0); 
+    border-radius: 30px; 
+    text-align: center; 
+    color: rgb(0, 0, 0); 
+    font-size: 25px; 
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500; 
+    word-wrap: break-word;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.but:hover{
+    background: rgb(29, 28, 28);
+    color: white;
+}
+@media (max-width: 1439px){
+    .but{
+        top: 1780px;
+        position: absolute;
+        left: 560px;
+
+    }
+}
+@media (max-width: 1201px){
+    .but{
+        top: 1711px;
+        left: 463px;
+
+    }
+}
+@media (max-width: 993px){
+    .but{
+        max-width: 750px;
+        left: 358px;
+        top: 1548px;
+    }
+}
+@media (max-width: 769px){
+    .but{
+        width: 283px;
+        left: 243px;
+        top: 1468px;
+        height: 72px;
+    }
+}
+@media (max-width: 577px){
+    .but{
+        width: 253px;
+        left: 156px;
+        top: 1404px;
+        height: 65px;
+        font-size: 23px;
+    }
+}
+@media (max-width: 461px){
+    .but{
+        width: 253px;
+        left: 99px;
+        top: 1242px;
+    }
+}
+@media (max-width: 415px){
+    .but{
+        font-size: 15px;
+        left: 121px;
+        height: 60px;
+        top: 1004px;
+        width: 175px;
+    }
+}
+@media (max-width: 376px){
+    .but{
+        font-size: 15px;
+        left: 101px;
+        height: 60px;
+        top: 849px;
+        width: 175px;
+    }
+}
+@media (max-width: 320px){
+    .but{
+        font-size: 15px;
+        left: 71px;
+        height: 60px;
+        top: 896px;
+        width: 175px;
+    }
+}
+.HorizonTravel_2023 {
+    height: 21px; 
+    left: 26px; 
+    top: 2056px; 
+    position: absolute; 
+    color: black; 
+    font-size: 25px; 
+    font-family: 'KoHo', sans-serif;  
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .HorizonTravel_2023{
+        top: 2042px;
+        position: absolute;
+        left: 26px;
+        max-width: 970px; 
+        text-align: center; 
+        height: 22px;
+        font-size: 25px;
+        font-weight: 400;
+        height: 22px;
+    }
+}
+@media (max-width: 1201px){
+    .HorizonTravel_2023{
+        top: 1970px;
+        left: 26px;
+    }
+}
+@media (max-width: 993px){
+    .HorizonTravel_2023{
+        max-width: 750px;
+        font-size: 20px;
+        top: 1757px; 
+        left: 15px;
+    }
+}
+@media (max-width: 769px){
+    .HorizonTravel_2023{
+        top: 1657px; 
+        left: 15px;
+    }
+}
+@media (max-width: 577px){
+    .HorizonTravel_2023{
+        top: 1577px; 
+        left: 15px;
+        font-size: 18px;
+    }
+}
+@media (max-width: 461px){
+    .HorizonTravel_2023{
+        top: 1425px; 
+        left: 142px;
+        font-size: 16px;
+    }
+}
+@media (max-width: 415px){
+    .HorizonTravel_2023{
+        max-width: 414px;
+        left: 141px;
+        top: 1136px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 376px){
+    .HorizonTravel_2023{
+        max-width: 375px;
+        left: 119px;
+        top: 970px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 320px){
+    .HorizonTravel_2023{
+        max-width: 320px;
+        left: 196px;
+        top: 1044px;
+        font-size: 12px;
+    }
+}
+.num_tel_down {
+    height: 32px; 
+    left: 645px; 
+    top: 2091px; 
+    position: absolute; 
+    color: black; 
+    font-size: 25px; 
+    font-family: 'Kodchasan', sans-serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .num_tel_down{
+        top: 2042px;
+        position: absolute;
+        left: 613px;
+        max-width: 970px; 
+        text-align: center; 
+        height: 22px;
+        font-size: 25px;
+        font-weight: 400;
+    }
+}
+@media (max-width: 1201px){
+    .num_tel_down{
+        top: 1970px;
+        left: 521px;
+    }
+}
+@media (max-width: 993px){
+    .num_tel_down{
+        max-width: 750px;
+        top: 1757px;
+        font-size: 20px;
+        left: 432px;
+    }
+}
+@media (max-width: 769px){
+    .num_tel_down{
+        top: 1657px;
+        left: 312px;
+    }
+}
+@media (max-width: 577px){
+    .num_tel_down{
+        top: 1577px;
+        left: 221px;
+        font-size: 18px;
+    }
+}
+@media (max-width: 461px){
+    .num_tel_down{
+        top: 1400px;
+        left: 165px;
+        font-size: 16px;
+    }
+}
+@media (max-width: 415px){
+    .num_tel_down{
+        max-width: 414px;
+        left: 156px;
+        top: 1111px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 376px){
+    .num_tel_down{
+        max-width: 375px;
+        left: 137px;
+        top: 951px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 320px){
+    .num_tel_down{
+        max-width: 320px;
+        left: 110px;
+        top: 1012px;
+        font-size: 12px;
+    }
+}
+.HorizontravelBookGmailCom {
+    height: 32px; 
+    left: 577px; 
+    top: 2048px;  
+    position: absolute; 
+    color: black; 
+    font-size: 25px; 
+    font-family: 'Kodchasan', sans-serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .HorizontravelBookGmailCom{
+        top: 1999px;
+        position: absolute;
+        left: 542px;
+        max-width: 970px; 
+        text-align: center; 
+        height: 22px;
+        font-size: 25px;
+        font-weight: 400;
+    }
+}
+@media (max-width: 1201px){
+    .HorizontravelBookGmailCom{
+        top: 1926px;
+        left: 442px;
+    }
+}
+@media (max-width: 993px){
+    .HorizontravelBookGmailCom{
+        max-width: 750px;
+        top: 1726px;
+        font-size: 20px;
+        left: 368px;
+    }
+}
+@media (max-width: 769px){
+    .HorizontravelBookGmailCom{
+        top: 1625px;
+        left: 249px;
+    }
+}
+@media (max-width: 577px){
+    .HorizontravelBookGmailCom{
+        font-size: 18px;
+        top: 1546px;
+        left: 163px;
+    }
+}
+@media (max-width: 461px){
+    .HorizontravelBookGmailCom{
+        font-size: 16px;
+        top: 1375px;
+        left: 116px;
+    }
+}
+@media (max-width: 415px){
+    .HorizontravelBookGmailCom{
+        max-width: 414px;
+        left: 110px;
+        top: 1084px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 376px){
+    .HorizontravelBookGmailCom{
+        max-width: 375px;
+        left: 107px;
+        top: 930px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 320px){
+    .HorizontravelBookGmailCom{
+        max-width: 320px;
+        left: 80px;
+        top: 989px;
+        font-size: 12px;
+    }
+}
+.FIO {
+    height: 43px; 
+    left: 26px; 
+    top: 2101px; 
+    position: absolute; 
+    color: rgba(0, 0, 0, 0.54); 
+    font-size: 25px; 
+    font-family: 'Kodchasan', sans-serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+@media (max-width: 1439px){
+    .FIO{
+        top: 2084px;
+        position: absolute;
+        left: 26px;
+        max-width: 970px; 
+        text-align: center; 
+        height: 22px;
+        font-size: 25px;
+        font-weight: 400;
+        height: 22px;
+    }
+}
+@media (max-width: 1201px){
+    .FIO{
+        top: 2019px;
+    }
+}
+@media (max-width: 993px){
+    .FIO{
+        max-width: 750px;
+        top: 1787px;
+        font-size: 20px; 
+        left: 15px;
+    }
+}
+@media (max-width: 769px){
+    .FIO{
+        top: 1688px;
+    }
+}
+@media (max-width: 577px){
+    .FIO{
+        top: 1608px;
+        font-size: 18px;
+    }
+}
+@media (max-width: 461px){
+    .FIO{
+        top: 1449px;
+        font-size: 16px;
+        left: 122px;
+    }
+}
+@media (max-width: 415px){
+    .FIO{
+        max-width: 414px;
+        left: 122px;
+        top: 1160px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 376px){
+    .FIO{
+        max-width: 375px;
+        left: 100px;
+        top: 989px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 320px){
+    .FIO{
+        max-width: 320px;
+        left: 6px;
+        top: 1044px;
+        font-size: 12px;
+    }
+}
+.Rectangle {
+    height: 274px; 
+    left: 0px; 
+    top: 1901px; 
+    position: absolute; 
+    background: rgba(96.69, 96.69, 96.69, 0.46);
+    width: 1440px;
+}
+@media (max-width: 1439px){
+    .Rectangle{
+        height: 230px; 
+        top: 1901px;
+        position: absolute;
+        left: 0px;
+        width: 100%;
+    }
+}
+@media (max-width: 1201px){
+    .Rectangle{
+        height: 230px; 
+        top: 1840px;
+        left: 0px;
+        width: 100%;
+    }
+}
+@media (max-width: 993px){
+    .Rectangle{
+        width: 100%;
+        top: 1666px;
+        height: 154px;
+    }
+}
+@media (max-width: 769px){
+    .Rectangle{
+        width: 100%;
+        top: 1567px;
+        height: 154px;
+    }
+}
+@media (max-width: 577px){
+    .Rectangle{
+        top: 1490px;
+        height: 154px;
+    }
+}
+@media (max-width: 461px){
+    .Rectangle{
+        top: 1324px;
+        height: 154px;
+    }
+}
+@media (max-width: 415px){
+    .Rectangle{
+        width: 100%;
+        height: 148px;
+        top: 1078px;
+        left: 0px;
+    }
+}
+@media (max-width: 376px){
+    .Rectangle{
+        width: 100%;
+        height: 88px;
+        top: 925px;
+        left: 0px;
+    }
+}
+@media (max-width: 320px){
+    .Rectangle{
+        width: 320px;
+        height: 88px;
+        top: 979px;
+        left: 0px;
+    }
+}
+.Image8 { 
+    height: 96px; 
+    left: 516px; 
+    top: 1931px; 
+    position: absolute;
+    max-width: 100%;
+}
+@media (max-width: 1439px){
+    .Image8{
+        top: 1906px;
+        left: 495px;
+        max-width: 970px;
+        height: 85px;
+    }
+}
+@media (max-width: 1201px){
+    .Image8{
+        top: 1850px;
+        left: 429px;
+        height: 74px;
+    }
+}
+@media (max-width: 993px){
+    .Image8{
+        left: 362px;
+        top: 1669px;
+        height: 58px;
+    }
+}
+@media (max-width: 769px){
+    .Image8{
+        left: 259px;
+        top: 1574px;
+        height: 50px;
+    }
+}
+@media (max-width: 577px){
+    .Image8{
+        left: 172px;
+        top: 1496px;
+        height: 47px;
+    }
+}
+@media (max-width: 461px){
+    .Image8{
+        left: 119px;
+        top: 1330px;
+        height: 42px;
+    }
+}
+@media (max-width: 415px){
+    .Image8{
+        left: 132px;
+        top: 1188px;
+        height: 32px;
+    }
+}
+@media (max-width: 375px){
+    .Image8{
+        left: 259px;
+        top: 959px;
+        height: 21px;   
+    }
+}
+@media (max-width: 320px){
+    .Image8{
+        left: 212px;
+        top: 1009px;
+        height: 21px;   
+    }
+}
